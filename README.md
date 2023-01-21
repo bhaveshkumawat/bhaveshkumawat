@@ -17,6 +17,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bhaveshkumawat&icon=0&color=0)](https://visitcount.itsvg.in)
-![Visitor Count](https://profile-counter.glitch.me/bhaveshkumawat/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/bhaveshkumawat/count.svg) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
